@@ -15,7 +15,6 @@
 ### 👩‍💻 About Me
 
 - 🎓 Computer Engineering student passionate about technology & innovation
-- 🛠️ Full-stack development, data science, and UI/UX enthusiast
 - ⚡ Always learning, building, and collaborating on creative solutions
 
 ---
