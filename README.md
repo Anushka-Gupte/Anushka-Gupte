@@ -59,40 +59,11 @@ Status:     Training something (probably a side project)
 
 ## 🚀 Featured Projects
 
-### 🎨 [NeuroSketch](https://github.com/Anushka-Gupte/NeuroSketch) — *Real-time sketch recognition with a pure ANN*
-
-| Model Card | |
-|:-----------|:--|
-| **Task** | Recognize hand-drawn sketches live as you draw (45 Quick Draw categories) |
-| **Architecture** | Fully-connected ANN · ~560K params · zero convolutional layers |
-| **Performance** | ~85% validation accuracy · < 200 ms inference |
-| **Highlights** | Live top-5 confidence bars · neuron activation heatmap · REST API |
-| **Stack** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Deployed on** | Hugging Face Spaces |
-| **Links** | [🔴 Live Demo](https://anushkagupte06-neurosketch.hf.space/app) · [Code](https://github.com/Anushka-Gupte/NeuroSketch) |
-
-### 💳 [AltCred AI](https://github.com/Anushka-Gupte/altcred-ai) — *Alternative credit scoring for the underbanked*
-
-| Model Card | |
-|:-----------|:--|
-| **Task** | Predict creditworthiness (Good / Bad) and recommend **Approve / Review / Reject** |
-| **Models** | Logistic Regression + SMOTE (best), Random Forest, Gradient Boosting |
-| **Performance** | AUC-ROC 0.726 · 67% recall on defaulters |
-| **Highlights** | SMOTE for class imbalance · SHAP explanations · interactive lender dashboard |
-| **Stack** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Deployed on** | Render |
-| **Links** | [🔴 Live Demo](https://altcred-ai.onrender.com/) · [Code](https://github.com/Anushka-Gupte/altcred-ai) |
-
-### 🧾 [FINTRACK — AI Finance Controller](https://github.com/Anushka-Gupte/ai-finance-controller) — *Autonomous reconciliation & settlement audit*
-
-| Model Card | |
-|:-----------|:--|
-| **Task** | Auto-reconcile ERP invoices, payment payouts and bank statements |
-| **Engine** | 2-tier matching: deterministic fast path + fuzzy/semantic path (vendor names, date windows, gateway fees) |
-| **Highlights** | Natural-language settlement Q&A auditor · exception queue with audit trails · custom CSV ingestion |
-| **Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Deployed on** | Vercel |
-| **Links** | [🔴 Live Demo](https://ai-finance-controller-two.vercel.app/) · [Code](https://github.com/Anushka-Gupte/ai-finance-controller) |
+### 🧠 Neural Network View
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/neural-net.svg" width="100%" alt="Animated neural network: skills flow through hidden layers into NeuroSketch, AltCred AI and FINTRACK"/>
+</div>
 
 ## 🧰 Technical Skills
 
