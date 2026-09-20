@@ -1,61 +1,21 @@
 <!-- Profile README for Anushka-Gupte -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Anushka&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20AI&descAlignY=58&descSize=16" width="100%" alt="header"/>
-
-<a href="https://github.com/Anushka-Gupte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=%24+whoami;Computer+Engineering+%7C+ML+%26+AI+Builder;Teaching+neural+nets+to+recognize+sketches+%26+score+credit;Turning+data+into+models%2C+models+into+products;while(alive)+%7B+train()%3B+evaluate()%3B+deploy()%3B+%7D" alt="Typing SVG" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/banner.svg" width="100%" alt="Hi, I'm Anushka: Computer Engineering, Machine Learning and AI. Animated circuit-board banner"/>
 </div>
-
 ---
 
-## 🧠 `class Me(nn.Module)`
+## 🖥️ Boot Sequence
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/terminal.svg" width="100%" alt="Animated terminal booting Anushka's ML stack"/>
+</div>
 
-```python
-import torch.nn as nn
-
-class Me(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.languages  = ["Python", "Java", "C", "C++", "SQL"]
-        self.ml_stack   = ["PyTorch", "Scikit-learn", "LangChain"]
-        self.data_stack = ["NumPy", "Pandas", "Matplotlib", "Plotly"]
-        self.serving    = ["FastAPI", "Streamlit", "Docker"]
-        self.fuel       = nn.Parameter(coffee)          # requires_grad=True
-
-    def forward(self, idea):
-        prototype = self.build(idea)
-        model     = self.train(prototype)
-        return self.deploy(model)                       # ship it 🚀
-```
-
-## 📉 `training.log`
-
-```text
-Epoch 1/∞  ── loss: 2.3104 ── curiosity: ↑↑↑
-Epoch 2/∞  ── loss: 1.4820 ── bugs_fixed: 12
-Epoch 3/∞  ── loss: 0.7391 ── side_projects: overfitting (ignoring regularization)
-[ OK ] Checkpoint saved → /mnt/skills/next_level.pt
-```
-
-## 👾 `neofetch`
-
-```text
-Anushka-Gupte@github
---------------------
-OS:         Human 2.0 (Computer Engineering build)
-Languages:  Python, Java, C, C++, SQL
-ML / AI:    PyTorch, Scikit-learn, Deep Learning, LangChain
-Data:       NumPy, Pandas, Matplotlib, Plotly
-Serving:    FastAPI, Streamlit, Docker
-Cloud:      Render, Hugging Face Spaces, Vercel
-Shell:      Git + GitHub
-Shipped:    3 live ML/AI apps
-Status:     Training something (probably a side project)
-```
+## 🛰️ System Status
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/system-hud.svg" width="100%" alt="Animated HUD: radar sweep and loaded skill modules"/>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -157,6 +117,5 @@ Decode this to say hi back:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-gupte-b322b3334)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](anushka.gupte06@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
-
+<img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/footer.svg" width="100%" alt="EOF, thanks for stopping by"/>
 </div>
