@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/banner.svg" width="100%" alt="Hi, I'm Anushka: Computer Engineering, Machine Learning and AI. Animated circuit-board banner"/>
 </div>
----
 
 ## 🖥️ Boot Sequence
  
@@ -46,32 +45,12 @@
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Also used in projects** | ![SHAP](https://img.shields.io/badge/SHAP-Explainability-8A2BE2?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square) ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-SMOTE-lightgrey?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
-## 🔄 My ML Pipeline
 
-```mermaid
-flowchart LR
-    A([📥 Raw Data]) --> B["🧹 Clean & Explore<br/>Pandas · NumPy · SQL"]
-    B --> C["📊 Visualize<br/>Matplotlib · Plotly"]
-    C --> D["🧠 Train<br/>PyTorch · Scikit-learn"]
-    D --> E{"📈 Good enough?"}
-    E -- No --> F["🔧 Tune & Debug"]
-    F --> D
-    E -- Yes --> G["⚡ Serve<br/>FastAPI · Streamlit"]
-    G --> H(["🚀 Deploy<br/>Docker · Render · HF Spaces"])
-```
-
-## 🔌 Datasheet: `ENG-2026` Pin Configuration
-
-| Pin | Name | Function |
-|:---:|:-----|:---------|
-| 1 | `VCC` | Powered by coffee and curiosity |
-| 2 | `GND` | Grounded in fundamentals: data structures, algorithms, systems |
-| 3 | `CLK` | Ships something new every sprint |
-| 4 | `RX` | Open to feedback, code reviews and collaboration |
-| 5 | `TX` | Writes about what I learn and build |
-| 6 | `INT` | Interrupt priority: bugs > features > sleep |
-| 7 | `GPIO` | Currently exploring: **real-time ML apps & AI for fintech** |
-| 8 | `NC` | No connection to boring, repetitive work |
+## 📟 Datasheet: ENG-2026
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anushka-Gupte/Anushka-Gupte/main/assets/datasheet.svg" width="100%" alt="Animated IC datasheet for ENG-2026: DIP-8 pinout, pin descriptions and electrical characteristics"/>
+</div>
 
 ## 📊 GitHub Stats
  
