@@ -143,14 +143,22 @@ flowchart LR
 | 8 | `NC` | No connection to boring, repetitive work |
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushka-Gupte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Gupte&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Anushka-Gupte&theme=tokyonight&hide_border=true" alt="streak"/>
-
+<br><br>
+ 
+![Followers](https://img.shields.io/github/followers/Anushka-Gupte?style=for-the-badge&logo=github&color=00ffcc&labelColor=0f2027)
+![Focus](https://img.shields.io/badge/Focus-ML_%26_AI-00ffcc?style=for-the-badge&labelColor=0f2027)
+ 
+<!--
+  Stats + top-languages cards. To turn these on, deploy your own
+  github-readme-stats on Vercel, replace YOUR_VERCEL_DOMAIN below,
+  then delete this comment's opening and closing markers.
+<img height="170" src="https://YOUR_VERCEL_DOMAIN/api?username=Anushka-Gupte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=Anushka-Gupte&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+-->
+ 
 </div>
 
 ## 🐍 Contribution Snake
